@@ -66,14 +66,6 @@ The average FastAPI delay was 0.014864029884338376
 On average, FastAPI was 1.2767117795248213 percent faster
 
 800 iterations:
-The highest Flask delay was 0.0468935489654541
-The lowest Flask delay was 0.005092573165893552
-The average Flask delay was 0.014921461045742032
-The highest FastAPI delay was 0.04782004356384277
-The lowest FastAPI delay was 0.006002140045166013
-The average FastAPI delay was 0.015061579942703244
-On average, Flask was 0.9303067639268081 percent faster
-
 The highest Flask delay was 0.06526346206665039
 The lowest Flask delay was 0.004862737655639646
 The average Flask delay was 0.013786330521106718
